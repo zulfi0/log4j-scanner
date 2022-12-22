@@ -32,8 +32,5 @@ python3 4jscan.py file.txt 0.tcp.ngrok.io:12345
 #### note :
 you need to press ctrl+c manually to exit the script (hehe)
 
-## Demo 
-https://user-images.githubusercontent.com/68773572/145912730-2562c511-2d5c-4b01-a8cd-3100393867e2.mp4
-
 
 
